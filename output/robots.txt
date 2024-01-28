@@ -1,0 +1,4 @@
+Sitemap: https://cocallag.github.io/merrybank/sitemapindex.xml
+
+User-Agent: *
+Host: cocallag.github.io

@@ -15,9 +15,9 @@
 
 This website provides information about Merry Bank for visitors. 
 
-To review an online version of the visitor booklet, `click here </documents/booklet.pdf>`_,
+To view an online version of the visitor booklet, `click here </documents/booklet.pdf>`_.
 
-
+You can book a stay through `Lakelovers <https://www.lakelovers.co.uk/cottage/Lake-District-Cumbria-The-Lake-District-Ambleside/Merry-Bank-1107052.html>`_
 
 .. figure:: /images/home.png
     :align: center
@@ -26,4 +26,4 @@ To review an online version of the visitor booklet, `click here </documents/book
     :target: /files/
     :width: 60%
 
-We hope that you enjoy your time in Merry Bank as much as we do.
+We hope that you enjoy your time in Merry Bank as much as we enjoy our time there.

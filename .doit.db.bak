@@ -74,7 +74,7 @@
 'render_pages:output\\pages\\manuals\\index.html', (81408, 4490)
 'render_posts:cache\\pages\\safety.html', (88064, 351)
 'copy_files:output\\documents\\booklet.pdf', (91136, 271)
-'render_pages:output\\index.html', (91648, 4482)
+'render_pages:output\\index.html', (91648, 4481)
 'render_pages:output\\manuals\\index.html', (96256, 4493)
 'render_pages:output\\safety\\index.html', (100864, 4485)
 'render_pages:output\\key\\index.html', (105472, 4469)

@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Merry Bank"  # (translatable)
-BLOG_TITLE = "merrybank"  # (translatable)
+BLOG_TITLE = "Merry Bank"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://cocallag.github.io/merrybank/"

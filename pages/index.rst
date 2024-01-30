@@ -26,4 +26,5 @@ You can book a stay through `Lakelovers <https://www.lakelovers.co.uk/cottage/La
     :target: /files/
     :width: 60%
 
-We hope that you enjoy your time in Merry Bank as much as we enjoy our time there.
+We hope that you enjoy your time at Merry Bank as much as we enjoy our time there.
+|br|

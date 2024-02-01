@@ -51,7 +51,7 @@
 'copy_assets:output\\assets\\css\\ipython.min.css', (183296, 596)
 'copy_files', (44032, 56)
 'copy_assets:output\\assets\\css\\code.css', (44544, 141)
-'sitemap:output\\sitemap.xml', (86016, 1829)
+'sitemap:output\\sitemap.xml', (86016, 1830)
 'render_galleries', (46592, 56)
 'render_listings', (47104, 56)
 'render_taxonomies:output\\rss.xml', (47616, 144)

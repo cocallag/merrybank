@@ -146,7 +146,8 @@ NAVIGATION_LINKS = {
         ("/index.html", "Home"),
         ("/key/", "Key Information"),
         ("/safety/", "Safety"),
-        ("/manuals/", "User Manuals")
+        ("/manuals/", "User Manuals"),
+        ("/activities/", "Activities")
     ),
 }
 

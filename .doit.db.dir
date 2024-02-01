@@ -91,6 +91,6 @@
 'copy_files:output\\documents\\vacuum.pdf', (159232, 269)
 'copy_files:output\\documents\\kettle.pdf', (178688, 269)
 'copy_files:output\\documents\\toaster.pdf', (193024, 271)
-'render_pages:output\\activities\\index.html', (193536, 4509)
-'render_posts:cache\\pages\\activities.html', (198144, 363)
+'render_pages:output\\activities\\index.html', (193536, 4510)
+'render_posts:cache\\pages\\activities.html', (198144, 364)
 'scale_images:output\\images\\walks1.jpg', (198656, 217)

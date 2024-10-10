@@ -21,7 +21,7 @@ Key information
 •	The left hand understairs cupboard is for drying damp clothes and has a dual fuel heater. The heater is goes on with the central heating or can be switched on electrically (‘boosted’) if the central heating is not on. 
 •	The washing machine is in the middle understairs cupboard. 
 •	There is extra storage in the bedrooms under the kingsize bed (back bedroom). 
-•	There are 2 pull out bins in the kitchen to the right of the oven- both can be used for all waste and recycling. If they are full empty them into the green wheelie bin labelled 'Merry Bank, 3 Stockghyll Court' around the side of the house. Otherwise, Lakelovers will empty it after you leave. 
+•	There are 2 pull out bins in the kitchen to the right of the oven- both can be used for all waste and recycling. If they are full, you can empty them into the green wheelie bin labelled 'Merry Bank, 3 Stockghyll Court' around the side of the house. Otherwise, Lakelovers will empty them after you leave. 
 •	Refuse collection is on Tuesdays every other week and the wheelie bin is collected from where it is along the side of the house. You don't need to put the bin out. 
 •	There is no option for charging electrical vehicles as vehicles cannot be charged in front of the house and there is no power in the garage. Please use the EV charging points at Hayes Garden World in Lake Road, Red Bank Road Carpark, Rothay Manor Hotel, Pure Lakes at Bryerswood.
 •	Our garage is the third garage on the right as you enter the garage area. The garage opposite our garage is for number 10, Stockghyll Court. Parking outside the garages is not permitted. 

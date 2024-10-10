@@ -28,5 +28,5 @@ You can book a stay through `Lakelovers <https://www.lakelovers.co.uk/cottage/La
 
 We hope that you enjoy your time at Merry Bank as much as we enjoy our time there.
 
-**February Update:** We have installed an Amazon Echo dot device in the kitchen so you can 'Ask Alexa'.
+
 |br|

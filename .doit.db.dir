@@ -73,7 +73,7 @@
 'render_pages:output\\pages\\safety\\index.html', (76800, 4485)
 'render_pages:output\\pages\\manuals\\index.html', (81408, 4490)
 'render_posts:cache\\pages\\safety.html', (88064, 346)
-'copy_files:output\\documents\\booklet.pdf', (91136, 271)
+'copy_files:output\\documents\\booklet.pdf', (91136, 270)
 'render_pages:output\\index.html', (134656, 6919)
 'render_pages:output\\manuals\\index.html', (120320, 6924)
 'render_pages:output\\safety\\index.html', (171520, 6920)
@@ -95,3 +95,4 @@
 'render_posts:cache\\pages\\activities.html', (198144, 365)
 'scale_images:output\\images\\walks1.jpg', (198656, 217)
 'copy_files:output\\documents\\booklet_old.pdf', (199168, 273)
+'copy_files:output\\documents\\booklet_old2.pdf', (199680, 281)

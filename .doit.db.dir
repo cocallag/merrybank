@@ -2,7 +2,7 @@
 'redirect', (512, 56)
 'copy_assets:output\\assets\\js\\luxon.min.js', (151040, 584)
 'scale_images', (1536, 56)
-'sitemap:output\\sitemapindex.xml', (2048, 256)
+'sitemap:output\\sitemapindex.xml', (2048, 257)
 'render_galleries:output\\galleries\\rss.xml', (115200, 4762)
 'copy_assets:output\\assets\\css\\baguetteBox.min.css', (188928, 606)
 'robots_file:output\\robots.txt', (6144, 136)
